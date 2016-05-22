@@ -9,6 +9,6 @@ The files of the applications are:
 * UI.R
 * server.R
 
-The application is accesible in: 
+The application is accesible in: https://ashish-bhuj.shinyapps.io/Developing-Data-Products-Project/
 
-The presentation could be found in github:
+The presentation could be found in github:https://github.com/Ashish-Bhuj/Developing-Data-Products-Project
